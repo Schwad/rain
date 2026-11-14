@@ -1,0 +1,15 @@
+:root { color-scheme: dark; }
+* { box-sizing: border-box; }
+html { background: #0a0f1a; }
+body {
+  margin: 0 auto; padding: 48px 20px 72px; max-width: 580px;
+  background: #0a0f1a; color: #c8d6e5;
+  font: 14px/1.7 ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace;
+}
+a { color: #8fb8de; }
+h1 { font-size: 14px; font-weight: 600; letter-spacing: 0.18em; text-transform: uppercase; color: #e8f0f8; margin: 28px 0 28px; }
+h2 { font-size: 14px; font-weight: 600; color: #e8f0f8; margin: 28px 0 6px; }
+p, ul { margin: 0 0 10px; }
+ul { padding-left: 20px; }
+.quiet { color: #6b7f96; }
+.foot { margin-top: 44px; font-size: 12px; letter-spacing: 0.18em; text-transform: uppercase; color: #6b7f96; }
